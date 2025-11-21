@@ -67,4 +67,4 @@ Reviso mi ip
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/30.png)
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/31.png)
 ### Conclusión
-### Bibliografí
+### Bibliografía
