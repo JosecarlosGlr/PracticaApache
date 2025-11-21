@@ -42,6 +42,26 @@ Posibles alternativas son:
 
 La motivación detrás de este trabajo es llevar a cabo la práctica propuesta para el módulo la cual es conseguir un intermediario que sería Apache, que nos permita conectar el cliente con el servidor.
 ### Cuerpo
-
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/1.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/2.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/3.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/4.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/5.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/6.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/7.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/8.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/9.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/10.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/11.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/12.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/13.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/14.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/15.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/16.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/17.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/18.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/19.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/30.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/31.png)
 ### Conclusión
 ### Bibliografí
