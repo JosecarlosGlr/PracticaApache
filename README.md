@@ -42,9 +42,12 @@ Posibles alternativas son:
 
 La motivación detrás de este trabajo es llevar a cabo la práctica propuesta para el módulo la cual es conseguir un intermediario que sería Apache, que nos permita conectar el cliente con el servidor.
 ### Cuerpo
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/1.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/2.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/3.png)
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/1.png)  
+Actualizo apt  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/2.png)  
+Instalo apache2
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/3.png)  
+Reviso mi ip
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/4.png)
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/5.png)
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/6.png)
