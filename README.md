@@ -52,15 +52,27 @@ Instalo apache2
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/3.png)  
 Reviso mi ip  
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/4.png)  
+Configuro el directorio raiz y lo dejo como decia el enlace
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/5.png)  
+Habilito los modulos de apache, establezco las propiedades del directorio de documentos y reinicio apache
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/6.png)  
+Ya tenemos apache
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/7.png)  
+Creo el directorio de mi pagina  
+cd /var/www/gci/  
+nano index.html  
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/8.png)  
+
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/9.png)  
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/10.png)  
+La configuro y recargo apache2  
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/11.png)  
+Pero no funciona  
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/12.png)  
+Pero eso es porque hay que meter esta ultima linea en esa dirección  
+127.0.0.1 gci.example.com
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/13.png)  
+Y ya si funciona
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/14.png)  
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/15.png)  
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/16.png)  
@@ -69,6 +81,10 @@ Reviso mi ip
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/19.png)  
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/30.png)  
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/31.png)  
+Estas ultimas son un intento del ultimo punto  
 ### Conclusión
 La realización de esta práctica ha permitido comprender de forma clara el papel fundamental que desempeña un servidor web dentro de cualquier proyecto online. A través de la instalación y configuración de Apache, se ha podido ver cómo se gestionan las peticiones de los clientes y cómo se establece la comunicación con el servidor para ofrecer contenido de manera eficiente. Además, conocer alternativas como Nginx, Caddy o LiteSpeed ayuda a ampliar la visión sobre las diferentes soluciones existentes en el ámbito profesional. En conjunto, la actividad ha servido para afianzar conceptos esenciales y adquirir experiencia práctica útil para futuros desarrollos web.
 ### Bibliografía
+[Pasos que he seguido](https://foro.puntocomunica.com/viewtopic.php?t=312)  
+[Enlace donde he mirado el control de acceso](https://httpd.apache.org/docs/trunk/es/howto/access.html)  
+[Video de youtube control de acceso](https://www.youtube.com/watch?v=rm78o246J3U)  
