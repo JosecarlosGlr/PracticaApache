@@ -1,46 +1,49 @@
 # Instalación y configuración de Apache
-Resumen:
-Palabras clave:
-Índice:
+
 ### Introducción
-El trabajo a realizar de tanto instalar como configurar el servidor web Apache se ha desarrollado en una clase del módulo de DAW del CFGS 2º DAW del instituto I.E.S. Juan Bosco, ubicado en Alcázar de San Juan, España.
+El presente trabajo recoge la instalación y configuración del servidor web Apache, una actividad realizada en el módulo de Desarrollo de Aplicaciones Web del segundo curso del CFGS impartido en el I.E.S. Juan Bosco, situado en Alcázar de San Juan, España. La práctica tenía como objetivo comprender el funcionamiento de un servidor web real y los pasos necesarios para ponerlo en marcha dentro de un entorno académico.
+Como antecedente histórico, Apache es un servidor web de código abierto cuyo desarrollo comenzó en 1995, cuando un grupo de desarrolladores decidió continuar el trabajo sobre el servidor NCSA HTTPd, que en aquel momento había dejado de recibir actualizaciones. Su nombre surge tanto como referencia al pueblo nativo Apache como por el juego de palabras “a patchy server”, ya que originalmente se construyó a base de múltiples parches aplicados al código de NCSA.
+El servidor web Apache permite que las páginas web funcionen correctamente: recibe peticiones HTTP o HTTPS, las procesa y envía una respuesta al cliente, actuando como enlace entre ambos extremos de la comunicación.
 
-Como se ha comentado, el entorno usado es Apache, un servidor web que nació en 1995 por un grupo de desarrolladores que decidió continuar trabajando sobre el código del servidor NCSA HTTPd, que era el más popular en aquellos tiempos aunque había dejado de actualizarse. Su nombre proviene tanto de una referencia a la tribu nativa americana Apache como del juego de palabras "a patchy server" que quiere decir "un servidor lleno de parches" ya que inicialmente estaba hecho a partir de “parches” del servidor NCSA.
+### Alternativas al servidor Apache
 
-El servidos web Apache sirve para hacer que los sitios web funcionen. Recibe solicitudes HTTP o HTTPS, las procesa y finalmente devuelve una respuesta, es decir, hace de intermedario.
+*Nginx
+   *Muy ligero y eficiente.
+   *Maneja gran cantidad de conexiones simultáneas usando pocos recursos.
+   *Adecuado como proxy inverso, balanceador de carga y servidor de caché.
 
-Posibles alternativas son:
-* Nginx:
-    * Ligero y eficiente.
-    * Maneja muchas conexiones simultáneas con pocos recursos.
-    * Ideal como proxy inverso, balanceador de carga y servidor de caché.
-    * Consume menos memoria que Apache.
-* LiteSpeed:
-    * Servidor web comercial.
-    * Compatible con configuraciones Apache.
-    * Rápido con PHP.
-    * Incluye funciones integradas de seguridad y caché.
-* Caddy:
-    * Servidor web moderno.
-    * Fácil de configurar.
-    * Incluye HTTPS automático.
-    * Ligero y multiplataforma.
-* Microsoft IIS:
-    * Integración nativa con el ecosistema Windows.
-    * Administración gráfica intuitiva.
-* Tomcat:
-    * Especializado en Java.
-* Node.js:
-    * No es un servidor web tradicional, pero puede servir contenido HTTP y manejar webs dinámicas.
-    * Ideal para aplicaciones en tiempo real.
-    * Gran rendimiento en I/O.
-* Cherokee:
-    * Open source.
-    * Fácil de usar.
-    * Fácil de configurar.
-    * Soporta balanceo, autenticación y proxy.
+*LiteSpeed
 
-La motivación detrás de este trabajo es llevar a cabo la práctica propuesta para el módulo la cual es conseguir un intermediario que sería Apache, que nos permita conectar el cliente con el servidor.
+   *Solución comercial.
+   *Compatible con configuraciones de Apache.
+   *Gran rendimiento con PHP.
+   *Incluye funciones de seguridad y caché integradas.
+
+*Caddy
+   *Servidor moderno y fácil de configurar.
+   *HTTPS automático por defecto.
+   *Multiplataforma y ligero.
+
+*Microsoft IIS
+   *Integración completa con el ecosistema Windows.
+   *Administración visual simple.
+
+*Tomcat
+   *Especializado en aplicaciones desarrolladas en Java.
+
+*Node.js
+   *Aunque no es un servidor web tradicional, permite servir contenido HTTP.
+   *Ideal para aplicaciones dinámicas y en tiempo real.
+   *Excelente rendimiento en operaciones de entrada y salida.
+
+*Cherokee
+   *De código abierto.
+   *Sencillo de usar y configurar.
+   *Incluye funciones como autenticación, balanceo y proxy.
+
+### Objetivo de la práctica
+
+El objetivo de la práctica consistía en configurar Apache como servidor intermediario que posibilita la comunicación entre un cliente y un servidor. Mediante esta actividad se pretende entender la importancia de un servidor web en una infraestructura y adquirir experiencia directa en su instalación y administración.
 ### Cuerpo
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/1.png)  
 Actualizo apt  
@@ -67,4 +70,5 @@ Reviso mi ip
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/30.png)
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/31.png)
 ### Conclusión
+La realización de esta práctica ha permitido comprender de forma clara el papel fundamental que desempeña un servidor web dentro de cualquier proyecto online. A través de la instalación y configuración de Apache, se ha podido ver cómo se gestionan las peticiones de los clientes y cómo se establece la comunicación con el servidor para ofrecer contenido de manera eficiente. Además, conocer alternativas como Nginx, Caddy o LiteSpeed ayuda a ampliar la visión sobre las diferentes soluciones existentes en el ámbito profesional. En conjunto, la actividad ha servido para afianzar conceptos esenciales y adquirir experiencia práctica útil para futuros desarrollos web.
 ### Bibliografía
