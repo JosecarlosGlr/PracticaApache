@@ -48,27 +48,27 @@ El objetivo de la práctica consistía en configurar Apache como servidor interm
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/1.png)  
 Actualizo apt  
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/2.png)  
-Instalo apache2
+Instalo apache2  
 ![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/3.png)  
-Reviso mi ip
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/4.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/5.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/6.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/7.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/8.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/9.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/10.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/11.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/12.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/13.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/14.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/15.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/16.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/17.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/18.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/19.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/30.png)
-![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/31.png)
+Reviso mi ip  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/4.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/5.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/6.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/7.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/8.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/9.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/10.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/11.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/12.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/13.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/14.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/15.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/16.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/17.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/18.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/19.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/30.png)  
+![](https://github.com/JosecarlosGlr/PracticaApache/blob/main/31.png)  
 ### Conclusión
 La realización de esta práctica ha permitido comprender de forma clara el papel fundamental que desempeña un servidor web dentro de cualquier proyecto online. A través de la instalación y configuración de Apache, se ha podido ver cómo se gestionan las peticiones de los clientes y cómo se establece la comunicación con el servidor para ofrecer contenido de manera eficiente. Además, conocer alternativas como Nginx, Caddy o LiteSpeed ayuda a ampliar la visión sobre las diferentes soluciones existentes en el ámbito profesional. En conjunto, la actividad ha servido para afianzar conceptos esenciales y adquirir experiencia práctica útil para futuros desarrollos web.
 ### Bibliografía
