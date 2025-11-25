@@ -7,39 +7,39 @@ El servidor web Apache permite que las páginas web funcionen correctamente: rec
 
 ### Alternativas al servidor Apache
 
-*Nginx
-   *Muy ligero y eficiente.
-   *Maneja gran cantidad de conexiones simultáneas usando pocos recursos.
-   *Adecuado como proxy inverso, balanceador de carga y servidor de caché.
+* Nginx
+   * Muy ligero y eficiente.
+   * Maneja gran cantidad de conexiones simultáneas usando pocos recursos.
+   * Adecuado como proxy inverso, balanceador de carga y servidor de caché.
 
-*LiteSpeed
+* LiteSpeed
 
-   *Solución comercial.
-   *Compatible con configuraciones de Apache.
-   *Gran rendimiento con PHP.
-   *Incluye funciones de seguridad y caché integradas.
+   * Solución comercial.
+   * Compatible con configuraciones de Apache.
+   * Gran rendimiento con PHP.
+   * Incluye funciones de seguridad y caché integradas.
 
-*Caddy
-   *Servidor moderno y fácil de configurar.
-   *HTTPS automático por defecto.
-   *Multiplataforma y ligero.
+* Caddy
+   * Servidor moderno y fácil de configurar.
+   * HTTPS automático por defecto.
+   * Multiplataforma y ligero.
 
-*Microsoft IIS
-   *Integración completa con el ecosistema Windows.
-   *Administración visual simple.
+* Microsoft IIS
+   * Integración completa con el ecosistema Windows.
+   * Administración visual simple.
 
-*Tomcat
-   *Especializado en aplicaciones desarrolladas en Java.
+* Tomcat
+   * Especializado en aplicaciones desarrolladas en Java.
 
-*Node.js
-   *Aunque no es un servidor web tradicional, permite servir contenido HTTP.
-   *Ideal para aplicaciones dinámicas y en tiempo real.
-   *Excelente rendimiento en operaciones de entrada y salida.
+* Node.js
+   * Aunque no es un servidor web tradicional, permite servir contenido HTTP.
+   * Ideal para aplicaciones dinámicas y en tiempo real.
+   * Excelente rendimiento en operaciones de entrada y salida.
 
-*Cherokee
-   *De código abierto.
-   *Sencillo de usar y configurar.
-   *Incluye funciones como autenticación, balanceo y proxy.
+* Cherokee
+   * De código abierto.
+   * Sencillo de usar y configurar.
+   * Incluye funciones como autenticación, balanceo y proxy.
 
 ### Objetivo de la práctica
 
